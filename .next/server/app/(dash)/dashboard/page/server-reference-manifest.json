@@ -1,0 +1,126 @@
+{
+  "node": {
+    "0030bbee59c05897451d36fc20c409c5e234381c7d": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "action-browser"
+      }
+    },
+    "009ebaaf93eef40c42daddfda53b2b3e78f3c6388f": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "action-browser"
+      }
+    },
+    "00a4306fa3c185ee22ac18f2e961920d76d88d3d86": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "action-browser"
+      }
+    },
+    "4069a9a38b726a2b4591ad36c63fd7b13b204d4535": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "action-browser"
+      }
+    },
+    "40909dc3f93d2ecbe1a7da93cf2d51bb3a80f9aa99": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "action-browser"
+      }
+    },
+    "40a7f99cbd781e7e813aa3ef4eeb9fa8bcddcda8e4": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "action-browser"
+      }
+    },
+    "402ea7ebae0e86a090142e2001910d5b9b9d05cda5": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "rsc"
+      }
+    },
+    "408dd8b0e830736ef9f044b51f8a4b1f09a3a872e6": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "rsc"
+      }
+    },
+    "409460fca3065a6911a5553a12340d9152c633c676": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "rsc"
+      }
+    },
+    "40ac283874aa4965b90528119395c5b2f93d328ee3": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "rsc"
+      }
+    },
+    "40edee8cbf35ae7442b0305cf3008036177361918b": {
+      "workers": {
+        "app/(dash)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(dash)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.action.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/lib/actions/generate.action.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true
+        }
+      },
+      "layer": {
+        "app/(dash)/dashboard/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}
